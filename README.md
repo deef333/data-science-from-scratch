@@ -59,3 +59,4 @@ If you are on Windows, it's [potentially more complicated](https://stackoverflow
 25. [MapReduce](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/mapreduce.py)
 26. Data Ethics
 27. Go Forth And Do Data Science
+[![Run on Repl.it](https://repl.it/badge/github/deef333/data-science-from-scratch)](https://repl.it/github/deef333/data-science-from-scratch)
